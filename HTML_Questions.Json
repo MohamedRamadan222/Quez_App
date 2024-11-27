@@ -1,0 +1,74 @@
+[
+    {
+        "title": "What is the Purpose of the <p> Element?",
+        "answer_1": "To Add Paragraphs",
+        "answer_2": "To Add Headings",
+        "answer_3": "To Add Images",
+        "answer_4": "To Add Links",
+        "right_answer": "To Add Paragraphs"
+    },
+    {
+        "title": "Which Attribute is Used to Specify an Image Source in HTML?",
+        "answer_1": "href",
+        "answer_2": "src",
+        "answer_3": "alt",
+        "answer_4": "title",
+        "right_answer": "src"
+    },
+    {
+        "title": "What Does CSS Stand For?",
+        "answer_1": "Cascading Style Sheets",
+        "answer_2": "Creative Style Sheets",
+        "answer_3": "Computer Style Sheets",
+        "answer_4": "Colorful Style Sheets",
+        "right_answer": "Cascading Style Sheets"
+    },
+    {
+        "title": "How Do You Write a Single-Line Comment in JavaScript?",
+        "answer_1": "# This is a Comment",
+        "answer_2": "// This is a Comment",
+        "answer_3": "/* This is a Comment */",
+        "answer_4": "<!-- This is a Comment -->",
+        "right_answer": "// This is a Comment"
+    },
+    {
+        "title": "Which Method is Used to Add an Item to the End of an Array in JavaScript?",
+        "answer_1": "push()",
+        "answer_2": "pop()",
+        "answer_3": "shift()",
+        "answer_4": "unshift()",
+        "right_answer": "push()"
+    },
+    {
+        "title": "What is the Correct Syntax to Select an Element with the ID 'header' in CSS?",
+        "answer_1": ".header",
+        "answer_2": "#header",
+        "answer_3": "header",
+        "answer_4": "id:header",
+        "right_answer": "#header"
+    },
+    {
+        "title": "What Does 'var' Declare in JavaScript?",
+        "answer_1": "A Variable",
+        "answer_2": "A Function",
+        "answer_3": "An Array",
+        "answer_4": "A Constant",
+        "right_answer": "A Variable"
+    },
+    {
+        "title": "Which HTML Element is Used for the Largest Heading?",
+        "answer_1": "<h1>",
+        "answer_2": "<heading>",
+        "answer_3": "<h6>",
+        "answer_4": "<header>",
+        "right_answer": "<h1>"
+    },
+    {
+        "title": "What is the Default Display Property for Most HTML Elements?",
+        "answer_1": "block",
+        "answer_2": "inline",
+        "answer_3": "none",
+        "answer_4": "flex",
+        "right_answer": "block"
+    }
+]
